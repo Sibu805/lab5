@@ -24,6 +24,6 @@ dates = dates[:5]
 emails = emails[:5]
 websites = websites[:5]
 
-print("Extracted Dates:", dates)
-print("Extracted Emails:", emails)
-print("Extracted Websites:", websites)
+print("Извлеченные данные:", dates)
+print("Извлеченные электронные письма:", emails)
+print("Извлеченные веб-сайты:", websites)
